@@ -1,0 +1,6 @@
+{
+  "name": "밤의 조각 - 감성 일기장",
+  "description": "감성 일기장 - 월간 회고, 오늘의 기록, 무드 BGM 믹서, 월간 감정 통계",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
